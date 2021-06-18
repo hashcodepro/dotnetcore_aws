@@ -1,0 +1,7 @@
+DemoTests/Features/**/*.feature.cs
+DemoTests/bin/
+DemoTests/obj/
+DemoProject/src/DemoProject/bin/
+DemoProject/src/DemoProject/obj/
+DemoProject/test/DemoProject.Tests/bin/
+DemoProject/test/DemoProject.Tests/obj/
